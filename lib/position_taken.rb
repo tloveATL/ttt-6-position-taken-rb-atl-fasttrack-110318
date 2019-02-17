@@ -1,3 +1,3 @@
 def position_taken?(board, index)
-  if index 
+puts board.inspect
 end
